@@ -20,7 +20,7 @@
    <b>A stable pluggable whatsapp userbot + </nodejs>, based on whatsAsena.</b>   
 
 [![Stars](https://img.shields.io/github/stars/RAVANA-SL/slRavana?style=flat-square&color=yellow)](https://github.com/RAVANA-SL/slRavana/stargazers)
-[![Forks](https://img.shields.io/github/forks/RAVANA-SL/slRavana?style=flat-square&color=orange)](https://github.com/RAVANA-SL/slRavana/fork)
+[![Forks](https://img.shields.io/github/forks/RAVANA-SL/slRavana?style=flat-square&color=orange)](https://github.com/wnaduranma/fork)
 [![Size](https://img.shields.io/github/repo-size/RAVANA-SL/slRavana?style=flat-square&color=green)](https://github.com/RAVANA-SL/slRavana/)   
 [![Python](https://img.shields.io/badge/node-js-green)](https://nodejs.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RAVANA-SL/slRavana/graphs/commit-activity)
